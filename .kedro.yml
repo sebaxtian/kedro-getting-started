@@ -1,0 +1,6 @@
+context_path: kedro_getting_started.run.ProjectContext
+project_name: "Kedro Getting Started"
+project_version: "0.16.5"
+package_name: "kedro_getting_started"
+hooks:
+  - kedro_getting_started.hooks.project_hooks
